@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="2" failures="0" hostname="mhcs-MacBook-Pro.local" name="cn.buding.lib.Action" tests="2" time="1.658" timestamp="2015-04-15T05:37:44">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/classes" />
+    <property name="user.country.format" value="CN" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030" />
+    <property name="java.runtime.version" value="1.7.0_71-b14" />
+    <property name="user.name" value="mhc" />
+    <property name="user.language.format" value="zh" />
+    <property name="build.dir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/bin" />
+    <property name="user.language" value="en" />
+    <property name="test.report.dir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/testreport" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib" />
+    <property name="ant.file.type.Ant-Test" value="file" />
+    <property name="ant.project.default-target" value="test" />
+    <property name="ant.project.name" value="Ant-Test" />
+    <property name="java.version" value="1.7.0_71" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/build.xml" />
+    <property name="os.version" value="10.9.4" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="24.71-b01" />
+    <property name="ant.library.dir" value="/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="user.home" value="/Users/mhc" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="test.dir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/src" />
+    <property name="java.library.path" value="/Users/mhc/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="ant.file.Ant-Test" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/build.xml" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner cn.buding.lib.Action filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/mhc/Documents/workspace/testscript/AppiumTest/testreport/TEST-cn.buding.lib.Action.xml crashfile=/Users/mhc/Documents/workspace/testscript/AppiumTest/junitvmwatcher4899592204852252887.properties propsfile=/Users/mhc/Documents/workspace/testscript/AppiumTest/junit3783415508099867356.properties" />
+    <property name="java.class.path" value="/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/Users/mhc/Desktop/IOS/appium/java-client-2.1.0.jar:/Users/mhc/Desktop/IOS/appium/selenium-server-standalone-2.44.0.jar:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/sdk/platforms/android-19/android.jar:/Users/mhc/Desktop/java_Script/opencsv-3.3.jar:/Users/mhc/Documents/workspace/testscript/AppiumTest/bin:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib/ant-launcher.jar:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib/ant.jar:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib/ant-junit.jar:/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.io.tmpdir" value="/var/folders/cz/sp04w5bd7mlgd33wl5nkv0700000gn/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/Users/mhc/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/Users/mhc/Desktop/developer/adt-bundle-mac-x86_64-20140321/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="src.dir" value="/Users/mhc/Documents/workspace/testscript/AppiumTest/src" />
+    <property name="ant.project.invoked-targets" value="test" />
+  </properties>
+  <testcase classname="cn.buding.lib.Action" name="initializationError" time="0.001">
+    <error message="Test class should have exactly one public zero-argument constructor" type="java.lang.Exception">java.lang.Exception: Test class should have exactly one public zero-argument constructor
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+</error>
+    <error message="No runnable methods" type="java.lang.Exception">java.lang.Exception: No runnable methods
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

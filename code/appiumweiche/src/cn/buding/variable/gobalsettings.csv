@@ -1,0 +1,2 @@
+caseid,deviceName,newCommandTimeout,ignoreUnimportantViews,server,timeout,browserName,comments
+TC001,xiaomi2s,180,true,127.0.0.1:4723,5000,chrome,
